@@ -1,0 +1,3 @@
+[submodule "example-gitlearn-1"]
+	path = example-gitlearn-1
+	url = https://github.com/avere001/example-gitlearn-1.git
